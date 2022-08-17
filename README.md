@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ghplayer2000
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in android and c++
 - 📫 Reach me by e-mail
 
 <!---
